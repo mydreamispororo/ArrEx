@@ -5,5 +5,5 @@
  * @author ITPS
  *
  */
-module ArrEx01 {
+module ArrEx02 {
 }
